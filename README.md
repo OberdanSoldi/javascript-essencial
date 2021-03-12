@@ -1,5 +1,5 @@
 # PLANO DE ESTUDOS - JAVASCRIPT
-![GitHub repo size](https://img.shields.io/github/repo-size/OberdanSoldi/javascript-stack)
+![GitHub repo size](https://img.shields.io/github/repo-size/OberdanSoldi/javascript-essencial)
 ![ViewCount](https://views.whatilearened.today/views/github/OberdanSoldi/javascript-stack.svg)
 
 ###### Por: [@OberdanSoldi](https://github.com/OberdanSoldi)
